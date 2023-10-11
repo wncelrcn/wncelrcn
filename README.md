@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rivanowincelarcen@gmail.com**
 
-- ⚡ Fun fact **Neoron**
+- ⚡ Fun fact **I LOVE CHAEWON**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
