@@ -1,14 +1,15 @@
-[![MasterHead]
+
+
 <h1 align="center">Hi 👋, I'm Wince Larcen M. Rivano</h1>
 <h3 align="center">A passionate Computer Science Student from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wncelrcn&label=Profile%20views&color=0e75b6&style=flat" alt="wncelrcn" /> </p>
 
-- 🌱 I’m currently learning **C#, C++**
+- 🌱 I’m currently learning **C#, and C++**
 
 - 📫 How to reach me **rivanowincelarcen@gmail.com**
 
-- ⚡ Fun fact **I LOVE CHAEWON**
+- ⚡ Fun fact **hehehehehehe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
