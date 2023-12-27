@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wncelrcn&label=Profile%20views&color=0e75b6&style=flat" alt="wncelrcn" /> </p>
 
-- 🌱 I’m currently learning **C#, C++, Web Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 Reach me here: **rivanowincelarcen@gmail.com**
 
