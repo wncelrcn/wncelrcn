@@ -78,4 +78,21 @@
     remote: Total 150 (delta 0), reused 0 (delta 0), pack-reused 150
     Receiving objects: 100% (150/150), done.
 
+6. git log
+   Description: Displays the complete history of commits in the current branch.
+   Usage: git log
+   Example:
+   
+   $ git log 
+   commit 111222333aaabbbccc (HEAD -> main, origin/main, origin/HEAD)
+   Author: Wince Larcen <abczyx@gmail.com>
+   Date:   Wed Dec 27 14:33:54 2023 +0800
+
+   updated my Github Profile and added Github Cheatsheet
+
+7. git branch
+   Description: Creates a new branch at the current commit.
+   Usage: git branch [branch-name]
+   Example: git branch my-new-branch
+
 ```
