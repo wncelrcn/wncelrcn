@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wncelrcn" alt="wncelrcn" /></a> </p>
 
-- 🌱 I’m currently learning **Game Development, Web Development, and UI/UX Design!**
+- 🌱 I’m currently learning **Fullstack Web Development, Databases, and UI/UX Design!**
 
-- 🤔 Some of my interests are **Web Development, Software Development, and UI/UX Design**.
+- 🤔 Some of my interests are **Web Development, Software Development, Game Development, and UI/UX Design**.
 
 - 📫 Connect with me thru **rivanowincelarcen@gmail.com & https://www.linkedin.com/in/wincelarcen/**
 
 - 🌐 View my Personal Portfolio here: **https://wncelrcn.github.io/**
 
-- ⚡ Fun fact: **I love C...haewon 💗**
+- ⚡ Fun fact: **I love C...haewon & 💗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
