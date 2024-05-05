@@ -16,7 +16,7 @@
 - 🌐 View my Personal Portfolio here: **https://wncelrcn.github.io/**
 
 - ⚡ Fun fact: **I love animals!** 😼
-- 💗 Another Fun fact: **I also love this girl so much -> https://github.com/grgttdln** 🥰
+- 💗 Another Fun fact: **i love [her](https://github.com/grgttdln) sm** 🥰
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
