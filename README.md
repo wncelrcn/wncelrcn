@@ -15,7 +15,7 @@
 
 - 🌐 View my Personal Portfolio here: **https://wncelrcn.github.io/**
 
-- ⚡ Fun fact: **I am a big animal lover & ...'s Lover? 🤔💗**
+- ⚡ Fun fact: **I love animals! And I also love Jet 🥰💗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
