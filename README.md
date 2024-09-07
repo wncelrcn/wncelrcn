@@ -1,7 +1,7 @@
 <img src="https://cdn.lospec.com/gallery/sweet-dreams-alex-a-gentle-breeze-602623.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Wince Larcen M. Rivano</h1>
-<h3 align="center">A 2nd Year Computer Science Student from Mapúa Malayan Colleges Laguna</h3>
+<h3 align="center">A 3rd Year Computer Science Student from Mapúa Malayan Colleges Laguna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wncelrcn&label=Profile%20views&color=0e75b6&style=flat" alt="wncelrcn" /> </p>
 
