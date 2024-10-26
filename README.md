@@ -7,16 +7,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wncelrcn" alt="wncelrcn" /></a> </p>
 
-- 🌱 I’m currently learning **IOS Development and Front-end Web Development!**
+- 🌱 I’m currently learning **Front-end Web Development, Image Processing & Computer Vision, Data Science, and Machine Learning !!!**
 
-- 🤔 Some of my interests are **Software Development, Web Development, Game Development, and UI/UX Designing**.
+- 🤔 Some of my interests in this field are **Mobile App Development, Web Development, Machine Learning, and UI/UX Design**.
 
 - 📫 Connect with me thru **rivanowincelarcen@gmail.com & https://www.linkedin.com/in/wincelarcen/**
 
 - 🌐 View my Personal Portfolio here: **https://wncelrcn.github.io/**
 
-- ⚡ Fun fact: **I love animals!** 😼
-- 💗 Another Fun fact: **i love [her](https://github.com/grgttdln) sm** 🥰
+- ⚡ Fun fact: **I love cats and dogs!** 😼
+- 💗 Another Fun fact: **i love [her](https://github.com/grgttdln) so much** 🥰
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
