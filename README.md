@@ -1,18 +1,18 @@
 <img src="https://cdn.lospec.com/gallery/sweet-dreams-alex-a-gentle-breeze-602623.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm Wince Larcen M. Rivano</h1>
-<h3 align="center">A 3rd Year Computer Science Student from Mapúa Malayan Colleges Laguna</h3>
+<h1 align="center">Hi 👋, I'm Wince Larcen M. Rivano 😎</h1>
+<h3 align="center">A 3rd Year BS in Computer Science Student from Mapúa Malayan Colleges Laguna</h3>
 
-- 🌱 I’m currently learning **Front-end Web Development, Image Processing & Computer Vision, Data Science, and Machine Learning !!!**
+- 🌱 I’m currently learning **Fullstack Web Development, Machine Learning, and Data Science and Analytics.**
 
-- 🤔 Some of my interests in this field are **Mobile App Development, Web Development, Machine Learning, and UI/UX Design**.
+- 🤔 I mainly specialize in **Machine Learning, Web Development, UI/UX Design, and Mobile App Development**.
 
-- 📫 Connect with me thru **rivanowincelarcen@gmail.com & https://www.linkedin.com/in/wincelarcen/**
+- 📫 Reach out to me through **rivanowincelarcen@gmail.com or https://www.linkedin.com/in/wincelarcen/**
 
-- 🌐 View my Personal Portfolio here: **https://wncelrcn.github.io/**
+- 🌐 View my Portfolio here: **https://wncelrcn.github.io/**
 
 - ⚡ Fun fact: **I love cats and dogs!** 😼
-- 💗 Another Fun fact: **i love [her](https://github.com/grgttdln) so much** 🥰
+- 💗 Another Fun fact: **i love [her](https://github.com/grgttdln) hehe** 🥰
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
